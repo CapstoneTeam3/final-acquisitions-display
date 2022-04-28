@@ -1,6 +1,6 @@
 
-# React-S3-Bubblechart
-The famous d3 Bubble Chart done in a [React + d3 Hybrid Approach](http://cmichel.io/how-to-use-d3js-in-react/). 
+# React-D3-Bubblechart
+The famous d3 v4 Bubble Chart done in a [React + d3 Hybrid Approach](http://cmichel.io/how-to-use-d3js-in-react/). 
 
 
 ## Running
